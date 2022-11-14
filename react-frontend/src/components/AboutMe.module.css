@@ -1,0 +1,28 @@
+.div{
+   height: 100%;
+   width: 100%;
+}
+
+.h1{
+    margin-top: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.p{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.pic{
+    height: 250px;
+    width:200px;
+    display: flex;
+    justify-content: center;
+}
+.picContainer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
